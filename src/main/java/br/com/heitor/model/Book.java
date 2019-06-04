@@ -10,6 +10,7 @@ public class Book {
 	private String author;
 	private Integer pages;
 
+	//References to test
 	public String getId() {
 		return id;
 	}
